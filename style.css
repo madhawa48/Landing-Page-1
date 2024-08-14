@@ -254,8 +254,7 @@ section h3 {
 }
 
 .btn-bgstroke {
-  font-size: 18px;
-  display: ;
+  font-size: 18px; 
   text-align: center;
   border: 2px solid white;
   border-radius: 8px;
@@ -268,9 +267,6 @@ section h3 {
   color: #fff;
 } 
 
-html, body {
- 
-}
 
 footer {
   background: #1f2937;
